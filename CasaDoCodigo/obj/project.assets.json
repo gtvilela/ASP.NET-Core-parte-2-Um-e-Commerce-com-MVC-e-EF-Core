@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriela.Vilela\\source\\repos\\CasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriela.Vilela\\Documents\\Cursos Alura\\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\\CasaDoCodigo\\CasaDoCodigo.csproj",
       "projectName": "CasaDoCodigo",
-      "projectPath": "C:\\Users\\Gabriela.Vilela\\source\\repos\\CasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo.csproj",
+      "projectPath": "C:\\Users\\Gabriela.Vilela\\Documents\\Cursos Alura\\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\\CasaDoCodigo\\CasaDoCodigo.csproj",
       "packagesPath": "C:\\Users\\Gabriela.Vilela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriela.Vilela\\source\\repos\\CasaDoCodigo\\CasaDoCodigo\\obj\\",
+      "outputPath": "C:\\Users\\Gabriela.Vilela\\Documents\\Cursos Alura\\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\\CasaDoCodigo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
