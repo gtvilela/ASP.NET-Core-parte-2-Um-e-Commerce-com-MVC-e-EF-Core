@@ -2,9 +2,6 @@ C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commer
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
-C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Views\Home\About.cshtml
-C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Views\Home\Contact.cshtml
-C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Views\Home\Index.cshtml
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Views\Shared\Error.cshtml
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Views\Shared\_Layout.cshtml
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Views\Shared\_ValidationScriptsPartial.cshtml
@@ -78,7 +75,6 @@ C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commer
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\wwwroot\images\produtos\large_064.jpg
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\wwwroot\images\produtos\large_065.jpg
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\wwwroot\js\site.js
-C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Controllers\HomeController.cs
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Controllers\PedidoController.cs
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Program.cs
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Startup.cs
@@ -91,3 +87,5 @@ C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commer
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
 C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csprojAssemblyReference.cache
+C:\Users\Gabriela.Vilela\Documents\Cursos Alura\ASP.NET Core parte 2 Um e-Commerce com MVC e EF Core\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
