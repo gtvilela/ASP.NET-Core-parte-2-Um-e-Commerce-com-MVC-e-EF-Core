@@ -64,7 +64,12 @@ namespace CasaDoCodigo.Models
     }
 
     public class ItemPedido : BaseModel
-    {   
+    {
+        internal void AtualizaQuantidade(int quantidade)
+        {
+            Quantidade = quantidade;
+        }
+
         [Required]
         public Pedido Pedido { get; private set; }
         [Required]
@@ -73,7 +78,7 @@ namespace CasaDoCodigo.Models
         public int Quantidade { get; private set; }
         [Required]
         public decimal PrecoUnitario { get; private set; }
-
+        
         public ItemPedido()
         {
 
