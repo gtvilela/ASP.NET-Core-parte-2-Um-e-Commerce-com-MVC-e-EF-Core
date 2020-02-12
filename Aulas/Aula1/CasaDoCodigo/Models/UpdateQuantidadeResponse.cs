@@ -8,13 +8,13 @@ namespace CasaDoCodigo.Models
 {
     public class UpdateQuantidadeResponse
     {
-        public UpdateQuantidadeResponse(ItemPedido temPedido, CarrinhoViewModel carrinhoViewModel)
+        public UpdateQuantidadeResponse(ItemPedido itemPedido, CarrinhoViewModel carrinhoViewModel)
         {
-            this.temPedido = temPedido;
+            this.itemPedido = itemPedido;
             CarrinhoViewModel = carrinhoViewModel;
         }
 
-        public ItemPedido temPedido { get; }
+        public ItemPedido itemPedido { get; }
         public CarrinhoViewModel CarrinhoViewModel { get; }
     }
 }
