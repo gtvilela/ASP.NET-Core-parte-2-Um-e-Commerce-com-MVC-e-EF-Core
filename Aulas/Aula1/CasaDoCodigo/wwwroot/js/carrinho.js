@@ -1,16 +1,16 @@
 ﻿class Carrinho {
     //Função para aumentar uma unidade a cada click no botão +
-    clickIncremento(btn) {
+    clickIncremento(button) {
 
-        let data = this.getData(btn);
+        let data = this.getData(button);
         data.Quantidade++;
         this.postQuantidade(data);
 
     }
 
     //Função para diminuir uma unidade a cada click no botão -
-    clickDecremento(btn) {
-        let data = this.getData(btn);
+    clickDecremento(button) {
+        let data = this.getData(button);
         data.Quantidade--;
         this.postQuantidade(data);
     }
@@ -28,21 +28,28 @@
         //Pegar o atributo desse elemento pai
         var itemId = $(linhaDoItem).attr('item-id');
         //Incluir a nova quantidade no elemento input desse pai (ou o botão de + ou o de -);
-        var novaQtde = $(linhaDoItem).find('input').val();
+        var novaQuantidade = $(linhaDoItem).find('input').val();
 
         //Retorno JSON informando o id e a quantidade do item
         return {
             Id: itemId,
-            Quantidade: novaQtde
+            Quantidade: novaQuantidade
         };
     }
 
     postQuantidade(data) {
+
+        let token = $('[name=__RequestVerificationToken]').val();
+
+        let headers = {};
+        headers['RequestVerificationToken'] = token;
+
         $.ajax({
             url: '/pedido/updatequantidade',
             type: 'POST',
             contentType: 'application/json',
-            data: JSON.stringify(data)
+            data: JSON.stringify(data),
+            headers: headers
         }).done(function (response) {
             //Aumentar a quantidade de itens do mesmo produto ao clicar em + e diminuir ao clicar em -
             let itemPedido = response.itemPedido;
@@ -61,6 +68,7 @@
             if (itemPedido.quantidade == 0) {
                 linhaDoItem.remove();
             }
+
         });
     }
 
